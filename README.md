@@ -58,7 +58,7 @@ sudo apt install git -y
 
 ### 3. Clone the repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/OSINT-Tool.git
+git clone https://github.com/RLC80/EZ-OSINT-TOOL.git
 ```
 
 ### 4. Run the tool
